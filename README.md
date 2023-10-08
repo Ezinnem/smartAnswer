@@ -1,2 +1,2 @@
 # smartAnswer
-A full stack application to enhance the learning process of developers
+A full-stack application to enhance the learning process of developers.
